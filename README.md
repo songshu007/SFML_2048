@@ -4,3 +4,5 @@
 
 使用说明
 使用 AWSD 或 ↑↓←→ 来控制
+
+![image](https://github.com/songshu007/SFML_2048/blob/main/20220615231629.png)
