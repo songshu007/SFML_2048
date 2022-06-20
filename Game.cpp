@@ -1,5 +1,5 @@
 #include "Game.h"
-
+// hi hi
 void Game::initWindow()
 {
 	sf::ContextSettings setting;
